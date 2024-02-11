@@ -1,7 +1,7 @@
 body {
   display: block;
   width: 400px;
-  height: 800;
+  max-height: 900vh;
   border: none;
   border-radius: 20px;
   margin: 80px auto;
